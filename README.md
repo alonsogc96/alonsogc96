@@ -18,7 +18,7 @@ These are some of the private projects I've been working on:
 - [**LocDance**](https://github.com/alonsogc96/LocDance)  
   Attractive dance website.
 
-- [**api_subscription**](https://github.com/alonsogc96/LocDance)  
+- [**API Subscription**](https://github.com/alonsogc96/api_subscription)  
   API developed in Python to the subscriptions by email.
 
 ---
