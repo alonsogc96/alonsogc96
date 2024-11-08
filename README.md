@@ -10,7 +10,7 @@ I'm **Juan Alonso Guillen**, a developer passionate about code and technology. E
 
 ### 🔐 Private Projects
 
-These are some of the private projects I've been working on, which aren't yet open-source or available for public access:
+These are some of the private projects I've been working on:
 
 - [**Rosaquibot**](https://github.com/alonsogc96/Rosaquibot)  
   Robot to download and modify reports automatically.
