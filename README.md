@@ -30,10 +30,10 @@ These are my open-source projects that you can explore, contribute to, or use in
 - [**JAGC Exam Simulator**](https://github.com/alonsogc96/JAGC_exam_simulator)  
   Web application to create and take exams, providing a complete solution for managing and evaluating tests.
 
-- [**Clinic Management**](https://github.com/alonsogc96/LocDance)  
+- [**Clinic Management**](https://github.com/alonsogc96/django_clinic_management)  
   A comprehensive API built with Django REST Framework to manage clinic operations. This system allows for efficient handling of patient data, appointments, medical records, and staff management.
 
-- [**Figure Store**](https://github.com/alonsogc96/LocDance)  
+- [**Figure Store**](https://github.com/HenryJCM/figures_store)  
   A project developed in collaboration with [**HenryJCM**](https://github.com/HenryJCM) using **Python** and **FastAPI**. This API allows efficient management of users, products, and sales for a figure store, providing a robust system for inventory and transaction handling.
 
 ---
