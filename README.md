@@ -15,7 +15,7 @@ These are some of the private projects I've been working on:
 - [**Rosaquibot**](https://github.com/alonsogc96/Rosaquibot)  
   Robot to download and modify reports automatically.
 
-- [**LocDance**](https://github.com/alonsogc96/LocDance)  
+- [**LocDance**](https://locdancepowerdance.com)  
   Attractive dance website.
 
 - [**API Subscription**](https://github.com/alonsogc96/api_subscription)  
